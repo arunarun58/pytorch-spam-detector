@@ -18,15 +18,6 @@ The model is trained on an SMS spam dataset and allows interactive testing of ne
 
 ---
 
-## Project Structure
-```
-
-├── spam.csv # Dataset
-├── main.py # Training, evaluation, and prediction
-├── requirements.txt # Dependencies
-└── README.md # Project overview
-
-````
 
 ---
 
